@@ -9,8 +9,12 @@ https://semantic-ui.com/
 
 https://codepen.io/
 
+https://babeljs.io/
+
 Section 2 : jsx (jsx implementation)
 
-Section 3 : component (function based component)
+Section 3 : component (function based component with props)
+
+section 4,5,6: seasons (class based component with state)
 
 
