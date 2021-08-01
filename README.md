@@ -8,3 +8,9 @@ https://www.draw.io/index.html#
 https://semantic-ui.com/
 
 https://codepen.io/
+
+Section 2 : jsx (jsx implementation)
+
+Section 3 : component (function based component)
+
+
