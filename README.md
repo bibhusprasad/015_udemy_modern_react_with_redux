@@ -13,10 +13,14 @@ https://codepen.io/
 
 https://babeljs.io/
 
+https://unsplash.com/developers
+
 Section 2 : jsx (jsx implementation)
 
 Section 3 : component (function based component with props)
 
 section 4,5,6: seasons (class based component with state)
+
+section 7,8,9,10: pics (handling user input with rest api and show recods list)
 
 
